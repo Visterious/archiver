@@ -12,7 +12,7 @@ $ ./archiver text.txt -comp
 ```
 for compression
 ```
-$ ./archiver CD.dat --decomp
+$ ./archiver CD.dat -decomp
 ```
 for decompression
 
