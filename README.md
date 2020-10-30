@@ -1,7 +1,7 @@
 # archiver
 Archiver for text files
 
-### Complilation
+### Compilation
 ```
 $ make build
 ```
